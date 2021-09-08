@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+#clk {
+    color: rgb(7, 7, 8);
+    font-family: 'Permanent Marker', cursive;
+    font-size: 100px;
+    width: 500px;
+    margin: 100px 0px 0px 500px;
+    text-align: center;
+}
+#date {
+    color: rgb(14, 11, 11);
+    font-family: 'Permanent Marker', cursive;
+    font-size: 20px;
+    width: 500px;
+    margin: 1px 0px 0px 500px;
+    text-align: center;
+}
+body{
+    background-color: rgb(189, 177, 177);
+}
